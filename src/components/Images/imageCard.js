@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUser, faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
+// import { faUser, faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
 import styles from './images.module.css';
 
 const imageCard = ({images}) => {
